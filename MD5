@@ -1,0 +1,10 @@
+e498c90a80ad1173bf726fc17e6b5ec5 *DESCRIPTION
+371de8d92be84c1f7b163c0b1c5292ef *LICENSE
+da2f2f63519c099416a9ff657854eea5 *NAMESPACE
+3d5326502e98fe4cf0a89310bbb53edd *R/Ghat.R
+a8b6b67fed9d6c3195d834937dca9245 *R/Maiz_wqs.R
+467e550619b29388a30bfc10bd115c1d *R/ld_decay.R
+27e95b096307d84dd91f75fdd9644dd7 *data/Maize_wqs.rda
+19f16da9ad102c9cc74461b2437fed8d *man/Ghat.Rd
+b88e0b43d5f39b384ec1b624145232b8 *man/Maize_wqs.Rd
+e9379e51b5b99544ee10dfcbf9aee52f *man/ld_decay.Rd
