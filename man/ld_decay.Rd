@@ -31,7 +31,7 @@ eff_nmark: The effective number of independent markers
 ld_decay: R function for calculating the effective number of independent markers
 }
 \examples{
-\donttest{
+\dontrun{
 library("parallel")
 gen         <- Maize_wqs[[4]]
 map         <- Maize_wqs[[3]]

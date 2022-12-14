@@ -32,7 +32,7 @@
 #' message (c(result.adf$Ghat , result.adf$Cor , result.adf$p.va))
 #'
 #'
-#'\donttest{
+#'\dontrun{
 #' #Example-2 Both SNP effects and change in allele frequency are known
 #' ##################################################################
 #' ## step 1: #run rrBLUP and estimating allels effects            ##

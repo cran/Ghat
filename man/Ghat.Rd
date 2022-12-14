@@ -43,7 +43,7 @@ mtext(paste("WQS ADF test for selection, pval = ", round(result.adf$p.val,4)))
 message (c(result.adf$Ghat , result.adf$Cor , result.adf$p.va))
 
 
-\donttest{
+\dontrun{
 #Example-2 Both SNP effects and change in allele frequency are known
 ##################################################################
 ## step 1: #run rrBLUP and estimating allels effects            ##

@@ -16,7 +16,7 @@
 #' @export
 #'
 #' @examples
-#' \donttest{
+#' \dontrun{
 #' library("parallel")
 #' gen         <- Maize_wqs[[4]]
 #' map         <- Maize_wqs[[3]]
